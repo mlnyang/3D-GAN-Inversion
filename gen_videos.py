@@ -25,7 +25,7 @@ import mrcfile
 
 import legacy
 
-from camera_utils import LookAtPoseSampler
+from utils.camera_utils import LookAtPoseSampler
 from torch_utils import misc
 #----------------------------------------------------------------------------
 

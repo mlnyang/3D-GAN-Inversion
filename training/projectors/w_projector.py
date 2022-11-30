@@ -22,7 +22,7 @@ import PIL
 import os
 import torchvision.models as models
 from ..volumetric_rendering.ray_sampler import RaySampler
-from camera_utils import compute_rotation_matrix_from_quaternion, euler2rot, rot6d_to_rotmat
+from utils.camera_utils import compute_rotation_matrix_from_quaternion, euler2rot, rot6d_to_rotmat
 from ..warping_loss import calc_warping_loss
 
 def project(

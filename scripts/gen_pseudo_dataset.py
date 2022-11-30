@@ -26,7 +26,7 @@ import math
 
 
 import legacy
-from camera_utils import LookAtPoseSampler, LookAt3DPoseSampler, FOV_to_intrinsics
+from utils.camera_utils import LookAtPoseSampler, LookAt3DPoseSampler, FOV_to_intrinsics
 from torch_utils import misc
 from training.triplane import TriPlaneGenerator
 

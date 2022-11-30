@@ -24,7 +24,7 @@ import mrcfile
 
 
 import legacy
-from camera_utils import LookAtPoseSampler, FOV_to_intrinsics
+from utils.camera_utils import LookAtPoseSampler, FOV_to_intrinsics
 from torch_utils import misc
 from training.triplane import TriPlaneGenerator
 

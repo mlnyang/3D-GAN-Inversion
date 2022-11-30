@@ -16,7 +16,7 @@ import torch.nn as nn
 import json
 import dnnlib
 import torch.nn.functional as F
-from camera_utils import euler2rot, compute_rotation_matrix_from_quaternion, rot6d_to_rotmat
+from utils.camera_utils import euler2rot, compute_rotation_matrix_from_quaternion, rot6d_to_rotmat
 import tensorboard
 from torch.utils.tensorboard import SummaryWriter
 
