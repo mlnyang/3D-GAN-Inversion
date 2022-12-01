@@ -1,5 +1,6 @@
 # 3D GAN Inversion with Pose Optimization
-### Official PyTorch implementation of the WACV 2023 paper
+### PyTorch implementation of the WACV 2023 paper
+### You can check official implementation on [KU-CVLAB archive](https://github.com/KU-CVLAB/3DGAN-Inversion)
 
 ![1](https://user-images.githubusercontent.com/78152231/204740257-1996faa1-11ff-4710-8224-1cf340be7d29.png)
 ![2](https://user-images.githubusercontent.com/78152231/204739677-2580175e-37ee-403e-8159-8a37b71f0207.png)
